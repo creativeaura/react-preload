@@ -1,4 +1,5 @@
 import ImageCache from './ImageCache';
+import Promise from 'Promise';
 
 const ImageHelper = {
     loadImage(url) {
